@@ -16,7 +16,7 @@ Locales['tr'] = {
   ['player_clothes'] = 'Kıyafetler',
   ['remove_cloth'] = 'Kıyafetleri Çıkar',
   ['removed_cloth'] = 'Kıyafeti çöpe attınız.',
-  ['remove_object'] = 'Öğeyi çöpe at',
+  ['remove_object'] = 'Öğeyi depodan al',
   ['deposit_object'] = 'Öğeyi depoya ekle',
   ['invite'] = 'Davet',
   ['dirty_money'] = 'Kirli Para: <span style="color: red;">$%s</span>',
